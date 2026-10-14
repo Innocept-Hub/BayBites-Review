@@ -1,6 +1,6 @@
 {
   "name": "BayBites - Customer Feedback",
-  "description": "Customer feedback and dining experience review portal for BayBites Dubai with embedded logo and WhatsApp submission.",
+  "description": "Customer feedback and dining experience review portal for BayBites Dubai with embedded logo and Google Maps review link.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
