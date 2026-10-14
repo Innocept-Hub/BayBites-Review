@@ -446,7 +446,7 @@ export default function App() {
           {/* Footer */}
           <div className="bg-stone-100 px-4 py-3 border-t border-stone-200 text-center">
             <p className="text-[11px] sm:text-xs text-stone-500">
-              Thank you for choosing <span className="font-bold text-[#E31E24]">BayBites Dubai</span>. We look forward to serving you again soon!
+              Thank you for choosing <span className="font-bold text-[#E31E24]">BayBites</span>. We look forward to serving you again soon!
             </p>
           </div>
 
