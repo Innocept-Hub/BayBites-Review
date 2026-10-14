@@ -140,7 +140,7 @@ export default function App() {
 
             <h1 className="text-xl sm:text-2xl md:text-3xl font-extrabold text-white tracking-tight">Customer Feedback</h1>
             <p className="mt-1 sm:mt-2 text-stone-300 text-xs sm:text-sm max-w-sm mx-auto leading-relaxed">
-              We value your dining experience in Dubai! Share your thoughts so we can serve you even better.
+              We value your dining experience! Share your thoughts so we can serve you even better.
             </p>
           </div>
 
@@ -437,7 +437,7 @@ export default function App() {
                 <span>Review us on Google</span>
               </button>
               <p className="text-center text-[11px] sm:text-xs text-stone-400 mt-2">
-                Clicking submit will copy your feedback and take you directly to Bay Bites on Google Maps.
+                Clicking submit will copy your feedback and take you directly to Bay Bites on Google.
               </p>
             </div>
 
